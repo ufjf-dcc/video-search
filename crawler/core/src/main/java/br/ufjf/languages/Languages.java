@@ -14,7 +14,7 @@ public interface Languages {
 
     public static final String PORTUGUESE = "pt";
 
-    public static final String BRAZILIAN_PORTUGUESE = "pt_BR";
+    public static final String BRAZILIAN_PORTUGUESE = "pt-BR";
 
     public static final String ENGLISH = "en";
 

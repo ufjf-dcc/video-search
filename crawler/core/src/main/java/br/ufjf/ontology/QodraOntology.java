@@ -33,5 +33,7 @@ public interface QodraOntology {
 
     public static final String EDUCATIONLEVEL = "http://purl.org/dc/terms/educationLevel";
 
+    public static final String N_TRIPLE_FORMAT = "<%s>\t<%s>\t<%s>";
+
 
 }

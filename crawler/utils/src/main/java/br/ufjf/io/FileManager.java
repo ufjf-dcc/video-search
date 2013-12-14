@@ -23,10 +23,11 @@ public class FileManager {
 
     /**
      * Store a file on disk
+     *
      * @param filename
      * @param content
      */
-    public static final void writeFile(String filename, String content){
+    public static final void writeFile(String filename, String content) {
 
         try {
             BufferedWriter out = new BufferedWriter(new FileWriter(filename));

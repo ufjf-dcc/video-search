@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<OBAA_Videoaula>
+    <general>
+        <identifier>
+            <catalog>URI</catalog>
+            <entry>http://videoaula.rnp.br/rioflashclient.php?xmlfile=//dados/conversao_html5/instituicao/ufjf/administracao_publica/admeadinf/aula5/ead_fonseca_05_sd.xml</entry>
+        </identifier>
+        <language>pt-BR</language>
+        <title>
+            <string language="pt-BR">Power Point e Access</string>
+        </title>
+        <description>
+            <string language="pt-BR">Power Point e Access</string>
+        </description>
+        <keyword>
+            <string language="pt-BR">videoaula, videoaulas</string>
+        </keyword>
+    </general>
+    <lifecycle>
+        <contribute>
+            <role>author</role>
+            <entity>BEGIN:VCARD\nFN:UFJFEND:VCARD\n</entity>
+            <date>2012-09-13</date>
+        </contribute>
+        <contribute>
+            <role>author</role>
+            <entity>BEGIN:VCARD\nFN:Prof. José Fonseca MarangonEND:VCARD\n</entity>
+            <date>2012-09-13</date>
+        </contribute>
+        <status>final</status>
+    </lifecycle>
+    <metametadata>
+        <identifier>
+            <catalog>URI</catalog>
+            <entry>http://gia.inf.ufrgs.br/ontologies/videoaula/documentacao</entry>
+        </identifier>
+        <contribute>
+            <role>creator</role>
+            <entity>BEGIN:VCARD\nFN:Prof. José Fonseca MarangonEND:VCARD\n</entity>
+            <date>2012-09-13</date>
+        </contribute>
+        <metadataschema>OBAA_Videoaula</metadataschema>
+    </metametadata>
+    <technical>
+        <format>text/html</format>
+        <size>23840037</size>
+        <requirement>
+            <orcomposite>
+                <type>any</type>
+                <name>browser</name>
+            </orcomposite>
+        </requirement>
+        <duration>PT06H56M</duration>
+        <supportedplatforms>Web</supportedplatforms>
+        <service>
+            <name>Videoaula@RNP</name>
+            <type>RIOHtmlClient</type>
+            <provides>False</provides>
+            <essential>True</essential>
+            <protocol>HTTP</protocol>
+            <details>
+                <servicelocation>http://videoaula.rnp.br</servicelocation>
+            </details>
+        </service>
+    </technical>
+    <educational>
+        <learningresourcetype>Aula</learningresourcetype>
+    </educational>
+    <classification>
+        <taxonPath>
+            <source>
+                <string language="pt-BR">Videoaula</string>
+            </source>
+            <taxon>
+                <entry>
+                    <string language="pt-BR">8, Ciência da Computação</string>
+                </entry>
+            </taxon>
+        </taxonPath>
+    </classification>
+    <videoaula>
+        <educational>
+            <course>
+                <title>
+                    <string language="pt-BR">Informática para Administradores</string>
+                </title>
+                <code>admeadinf</code>
+            </course>
+            <program>
+                <string language="pt-BR">admead</string>
+            </program>
+        </educational>
+        <technical>
+            <relatedmedia>
+                <catalog>index</catalog>
+                <entry>ead_fonseca_05_sd.index</entry>
+            </relatedmedia>
+            <relatedmedia>
+                <catalog>sync</catalog>
+                <entry>ead_fonseca_05_sd.sync</entry>
+            </relatedmedia>
+            <relatedmedia>
+                <catalog>video</catalog>
+                <entry>ead_fonseca_05_sd.mp4</entry>
+                <resolution>330x251</resolution>
+                <aspectratio>4:3</aspectratio>
+                <bitrate>1100.0</bitrate>
+                <standard>true</standard>
+            </relatedmedia>
+            <relatedmedia>
+                <catalog>video</catalog>
+                <entry>ead_fonseca_05_sd.webm</entry>
+                <resolution>330x251</resolution>
+                <aspectratio>4:3</aspectratio>
+                <bitrate>1100.0</bitrate>
+                <standard>true</standard>
+            </relatedmedia>
+        </technical>
+    </videoaula>
+</OBAA_Videoaula>
