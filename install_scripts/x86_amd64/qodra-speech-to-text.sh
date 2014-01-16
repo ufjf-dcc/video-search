@@ -30,7 +30,7 @@ tar xvf julius-4.2.3.tar.gz
 
 echo 'installing julius...'
 cd julius-4.2.3/
-./configure
+./configure --enable-words-int
 make
 make install
 cd ..
