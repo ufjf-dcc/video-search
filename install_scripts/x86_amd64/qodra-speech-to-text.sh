@@ -1,7 +1,7 @@
 #!/bin/bash
 #+--------------------------------------------------------------+
 #| QODRA	 - Download script / Speech-to-text script	|
-#|                 for raspberry                                |
+#|                 for x86/amd64                               |
 #|                                                              |
 #| sandro.coelho@ice.ufjf.br					|
 #+--------------------------------------------------------------+
