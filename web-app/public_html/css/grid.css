@@ -1,0 +1,54 @@
+/* Core column style */
+div[class^='column-'] {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  float: left;
+  padding: 0 20px;
+}
+div[class^='column-']:first-child {
+  padding-left: 0;
+}
+div[class^='column-']:last-child {
+  padding-right: 0;
+}
+div[class^='column-']:first-child:last-child {
+  padding: 0;
+}
+/* Defining column width */
+.column-1-12 {
+  width: calc(8.333333333333332%);
+}
+.column-2-12 {
+  width: calc(16.666666666666664%);
+}
+.column-3-12 {
+  width: calc(25%);
+}
+.column-4-12 {
+  width: calc(33.33333333333333%);
+}
+.column-5-12 {
+  width: calc(41.66666666666667%);
+}
+.column-6-12 {
+  width: calc(50%);
+}
+.column-7-12 {
+  width: calc(58.333333333333336%);
+}
+.column-8-12 {
+  width: calc(66.66666666666666%);
+}
+.column-9-12 {
+  width: calc(75%);
+}
+.column-10-12 {
+  width: calc(83.33333333333334%);
+}
+.column-11-12 {
+  width: calc(91.66666666666666%);
+}
+.column-12-12 {
+  width: calc(100%);
+}

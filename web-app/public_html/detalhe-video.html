@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Qodra</title>
+    <meta name="description" content="Encontre vídeos no Qodra">
+    <meta name="viewport" content="width=device-width">
+
+    <link href="favicon.png" rel="shortcut icon">
+
+    <link rel="stylesheet" href="css/reset.css">
+    <link href='http://fonts.googleapis.com/css?family=Lato:400,300,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/qodra-icons.css">
+    <link rel="stylesheet" href="css/main.css">
+  </head>
+  <body>
+    
+    <header id="fixed-header" class="header fixed">
+      <div class="wrap">
+        <h1 class="logo header__logo"><a href="#home">Qodra.</a></h1>
+        
+        <form class="search-header form-search">
+          <input type="search" name="busca" id="busca" placeholder="álgebra, sódio, adamantium..." /> <input type="submit" value="Buscar" />
+        </form>
+        
+        <nav id="menu-inst" class="menu-iconized">
+          <a href="#menu" id="show-menu-inst" class="menu-iconized__icon"><span class="icon-menu"></span> <span class="text">Menu</span></a>
+          <ul id="menu-inst-menu" class="menu-iconized__submenu">
+            <li><a href="#universidades">Universidades</a></li>
+            <li><a href="#videos">Vídeos</a></li>
+            <li><a href="#professores">Professores</a></li>
+            <li><a href="#sobre">Sobre</a></li>
+          </ul>
+        </nav>
+        
+        <div class="account">
+          <div class="account__user">
+            <img src="fake-content/mark.jpg" />
+            <h2>João</h2>
+            <div class="account__actions">
+              <a href="#minha-conta">Minha conta</a>
+              <a href="#sair">Sair</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    
+    <header class="header static">
+      <div class="wrap">
+        <nav class="header__menu">
+          <ul>
+            <li><a href="#universidades">Universidades</a></li>
+            <li><a href="#videos">Vídeos</a></li>
+            <li><a href="#professores">Professores</a></li>
+            <li><a href="#sobre">Sobre</a></li>
+          </ul>
+        </nav>
+
+        <h1 class="logo header__logo"><a href="#home">Qodra.</a></h1>
+        
+        <div class="account">
+          <ul>
+            <li><a href="#login" class="button rounded">Login</a></li>
+            <li><a href="#cadastre-se" class="button rounded">Cadastre-se</a></li>
+          </ul>
+        </div>
+        
+        <span class="header__arrow"></span>
+      </div>
+    </header>
+    
+    <div class="body-main">
+      <div class="wrap">
+        <div class="box-search">
+          <form class="box-search__form form-search">
+            <label for="busca">O que você  procura?</label>
+            <input type="search" name="busca" id="busca" placeholder="álgebra, sódio, adamantium..." /> <input type="submit" value="Buscar" />
+          </form>
+        </div>
+        
+        <div class="group">
+          <div class="column-1-12">
+            <div class="scroll-nav">
+              <ul>
+                <li><a href="#star" class="icon-star-white active"></a></li>
+                <li><a href="#tag" class="icon-tag-white"></a></li>
+                <li><a href="#comment" class="icon-comment-white"></a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="column-11-12">
+            <div class="video-frame">
+              <video poster="fake-content/video-poster.jpg" autoplay="autoplay" loop="loop" controls="controls" tabindex="0" width="100%"></video>
+            </div>
+            
+            <div id="comment" class="comments">
+              <h1 class="title-main">Comentários</h1>
+              <article class="comment">
+                <div class="comment__user group">
+                  <img src="fake-content/mark.jpg" /><h1>João</h1><span>28 de Dezembro - 11:42</span>
+                </div>
+                <div class="comment__comment">
+                  <p>O filme abre com uma narrativa, explicando os motivos dos Necromongers, uma raça de conquistadores que viajam através do espaço para o Sub-verso, um espelho escuro do universo normal onde a morte não tem sentido. Seu líder, Lord Marshal (Colm Feore), comanda suas tropas para outros mundos com o objetivo de converter os habitantes em Necromongers. Aqueles que se opõem à conversão são mortos.</p>
+                </div>
+              </article>
+              <article class="comment">
+                <div class="comment__user group">
+                  <img src="fake-content/mark.jpg" /><h1>João</h1><span>28 de Dezembro - 11:42</span>
+                </div>
+                <div class="comment__comment">
+                  <p>O filme abre com uma narrativa, explicando os motivos dos Necromongers, uma raça de conquistadores que viajam através do espaço para o Sub-verso, um espelho escuro do universo normal onde a morte não tem sentido. Seu líder, Lord Marshal (Colm Feore), comanda suas tropas para outros mundos com o objetivo de converter os habitantes em Necromongers. Aqueles que se opõem à conversão são mortos.</p>
+                </div>
+              </article>
+              <article class="comment">
+                <div class="comment__user group">
+                  <img src="fake-content/mark.jpg" /><h1>João</h1><span>28 de Dezembro - 11:42</span>
+                </div>
+                <div class="comment__comment">
+                  <p>O filme abre com uma narrativa, explicando os motivos dos Necromongers, uma raça de conquistadores que viajam através do espaço para o Sub-verso, um espelho escuro do universo normal onde a morte não tem sentido. Seu líder, Lord Marshal (Colm Feore), comanda suas tropas para outros mundos com o objetivo de converter os habitantes em Necromongers. Aqueles que se opõem à conversão são mortos.</p>
+                </div>
+              </article>
+            </div>
+            
+            <div class="comment__form">
+              <h2 class="title-ter">Comente</h2>
+              <form class="form">
+                <div class="form__input">
+                  <label for="nome">Seu nome:</label>
+                  <input type="text" name="nome" id="nome" />
+                </div>
+
+                <div class="form__input">
+                  <label for="email">Seu email:</label>
+                  <input type="email" name="email" id="email" />
+                </div>
+
+                <div class="form__input">
+                  <label for="mensagem">Mensagem:</label>
+                  <textarea name="mensagem" id="mensagem"></textarea>
+                </div>
+
+                <div class="form__input">
+                  <input type="submit" value="Comentar" />
+                </div>
+              </form>
+            </div>
+            
+          </div>
+        </div>
+        
+        <div class="group">
+          <div class="column-8-12">
+            <section class="main-categories group">
+              <div class="title-sec">
+                <h1>Principais categorias</h1> <a href="#ver-todas">Ver todas</a>
+              </div>
+              <div class="categorie-list">
+                <h2 class="categorie-list__title">Ciências Naturais</h2>
+                <ul class="categorie-list__list">
+                  <li><a href="#">Astronomia</a> <span>7 vídeos</span></li>
+                  <li><a href="#">Astronomia</a> <span>7 vídeos</span></li>
+                  <li><a href="#">Astronomia</a> <span>7 vídeos</span></li>
+                  <li><a href="#">Astronomia</a> <span>7 vídeos</span></li>
+                  <li><a href="#">Astronomia</a> <span>7 vídeos</span></li>
+                </ul>
+              </div>
+              <div class="categorie-list">
+                <h2 class="categorie-list__title">Ciências Naturais</h2>
+                <ul class="categorie-list__list">
+                  <li><a href="#">Astronomia</a> <span>7 vídeos</span></li>
+                  <li><a href="#">Astronomia</a> <span>7 vídeos</span></li>
+                  <li><a href="#">Astronomia</a> <span>7 vídeos</span></li>
+                  <li><a href="#">Astronomia</a> <span>7 vídeos</span></li>
+                  <li><a href="#">Astronomia</a> <span>7 vídeos</span></li>
+                </ul>
+              </div>
+              <div class="categorie-list">
+                <h2 class="categorie-list__title">Ciências Naturais</h2>
+                <ul class="categorie-list__list">
+                  <li><a href="#">Astronomia</a> <span>7 vídeos</span></li>
+                  <li><a href="#">Astronomia</a> <span>7 vídeos</span></li>
+                  <li><a href="#">Astronomia</a> <span>7 vídeos</span></li>
+                  <li><a href="#">Astronomia</a> <span>7 vídeos</span></li>
+                  <li><a href="#">Astronomia</a> <span>7 vídeos</span></li>
+                </ul>
+              </div>
+              <div class="categorie-list">
+                <h2 class="categorie-list__title">Ciências Naturais</h2>
+                <ul class="categorie-list__list">
+                  <li><a href="#">Astronomia</a> <span>7 vídeos</span></li>
+                  <li><a href="#">Astronomia</a> <span>7 vídeos</span></li>
+                  <li><a href="#">Astronomia</a> <span>7 vídeos</span></li>
+                  <li><a href="#">Astronomia</a> <span>7 vídeos</span></li>
+                  <li><a href="#">Astronomia</a> <span>7 vídeos</span></li>
+                </ul>
+              </div>
+              <div class="categorie-list">
+                <h2 class="categorie-list__title">Ciências Naturais</h2>
+                <ul class="categorie-list__list">
+                  <li><a href="#">Astronomia</a> <span>7 vídeos</span></li>
+                  <li><a href="#">Astronomia</a> <span>7 vídeos</span></li>
+                  <li><a href="#">Astronomia</a> <span>7 vídeos</span></li>
+                  <li><a href="#">Astronomia</a> <span>7 vídeos</span></li>
+                  <li><a href="#">Astronomia</a> <span>7 vídeos</span></li>
+                </ul>
+              </div>
+            </section>
+          </div>
+          <div class="column-4-12">
+            <section class="main-tags">
+              <div class="title-sec">
+                <h1>Tags mais usadas</h1> <a href="#ver-todas">Ver todas</a>
+              </div>
+              <ul class="main-tags__list">
+                <li class="main-tags__tag1"><a href="#">Astronomia</a> <span>7 vídeos</span></li>
+                <li class="main-tags__tag2"><a href="#">Astronomia</a> <span>7 vídeos</span></li>
+                <li class="main-tags__tag3"><a href="#">Astronomia</a> <span>7 vídeos</span></li>
+                <li class="main-tags__tag4"><a href="#">Astronomia</a> <span>7 vídeos</span></li>
+                <li class="main-tags__tag5"><a href="#">Astronomia</a> <span>7 vídeos</span></li>
+                <li class="main-tags__tag6"><a href="#">Astronomia</a> <span>7 vídeos</span></li>
+                <li class="main-tags__tag7"><a href="#">Astronomia</a> <span>7 vídeos</span></li>
+                <li class="main-tags__tag8"><a href="#">Astronomia</a> <span>7 vídeos</span></li>
+              </ul>
+            </section>
+          </div>
+        </div>
+        
+        
+      </div>
+    </div>
+    
+    <footer class="footer">
+      <div class="wrap">
+        <h1 class="logo footer__logo"><a href="#home">Qodra.</a></h1>
+        <div class="footer__item-container group">
+          <div class="footer__item organizations">
+            <h2>Universidades / Organização</h2>
+            <a href="#ufjf"><img src="fake-content/ufjf-logo.jpg" /></a>
+            <a href="#dbpedia"><img src="fake-content/dbpedia-logo.jpg" /></a>
+          </div>
+          <div class="footer__item useful-items">
+            <h2>Links úteis</h2>
+            <ul>
+              <li><a href="#universidades">Universidades</a></li>
+              <li><a href="#termos-de-uso">Termos de uso</a></li>
+              <li><a href="#videos">Vídeos</a></li>
+              <li><a href="#feedback">Feedback</a></li>
+              <li><a href="#professores">Professores</a></li>
+              <li><a href="#ajuda">Ajuda?</a></li>
+              <li><a href="#sobre">Sobre</a></li>
+            </ul>
+          </div>
+          <div class="footer__item social">
+            <h2>Social</h2>
+            <ul>
+              <li><a href="#twitter">Twitter</a></li>
+              <li><a href="#facebook">Facebook</a></li>
+              <li><a href="#googleplus">Google +</a></li>
+            </ul>
+          </div>
+        </div>  
+        <div class="disclaimer">
+          <p>© copyright Qodra 2014</p>
+        </div>
+      </div>
+    </footer>
+    
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+    <script src="js/vendor/jquery.krakatoa.min.js"></script>
+    <script src="js/main.js"></script>
+
+    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+    <script>
+      var _gaq = [['_setAccount', 'UA-XXXXX-X'], ['_trackPageview']];
+      (function(d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = '//www.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g, s)
+      }(document, 'script'));
+    </script>
+  </body>
+</html>
