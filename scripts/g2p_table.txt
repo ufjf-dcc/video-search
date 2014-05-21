@@ -1,0 +1,83 @@
+a a
+a a~
+a a~w~
+ã a~w~
+á a
+à a
+â a~
+b b
+c s
+c S
+c k
+ç s
+d dZ
+d d
+e e~
+e E
+e e
+e j~
+e j
+e e~ j~
+e i
+e e j
+ê e
+ê e~
+ê e~ j~
+é e~ j~
+é E
+f f
+g Z
+g g
+h  
+i j~
+i i
+i i~
+i j
+í i~
+í i
+j Z
+k k
+l l
+l L
+l w
+m J
+m m
+n J
+n n
+o O
+o o
+o ow
+o o~
+o w
+o u
+ô o~
+ô o
+ó O
+õ o~
+p f
+p p
+q k
+r R
+r r
+r X
+s z
+s j~ s
+s j s
+s S
+s s
+s Z
+t tS
+t t
+ü w
+u u~
+u u
+ú u
+v v
+w w
+x k s
+x k z
+y i
+y j
+z s
+z z
+z j s
