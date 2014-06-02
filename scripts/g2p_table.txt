@@ -1,7 +1,7 @@
 a a
 a a~
-a a~w~
-ã a~w~
+a a~ 
+ã a~
 á a
 à a
 â a~
@@ -17,22 +17,21 @@ e E
 e e
 e j~
 e j
-e e~ j~
 e i
-e e j
+e 
 ê e
 ê e~
-ê e~ j~
-é e~ j~
+é e~
 é E
 f f
 g Z
 g g
-h  
+h 
 i j~
 i i
 i i~
 i j
+i j 
 í i~
 í i
 j Z
@@ -40,15 +39,18 @@ k k
 l l
 l L
 l w
-m J
 m m
+m j~ 
+m w~
+m  
 n J
 n n
+n 
 o O
 o o
-o ow
 o o~
 o w
+o w~ 
 o u
 ô o~
 ô o
@@ -60,20 +62,25 @@ q k
 r R
 r r
 r X
+r 
 s z
-s j~ s
-s j s
 s S
 s s
+s j s
+s j~ s
 s Z
+s 
 t tS
 t t
-ü w
 u u~
 u u
+u w 
+u 
 ú u
+ü w
 v v
 w w
+x S
 x k s
 x k z
 y i
