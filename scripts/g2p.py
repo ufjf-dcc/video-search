@@ -11,7 +11,7 @@ import os
 from itertools import product
 
 rulesFile = codecs.open('g2p_table.txt', 'r', encoding='utf8') #arquivo com representações fonéticas de cada letra
-wordsFile = codecs.open('words.txt', 'r', encoding='utf8') #arquivo com lista de palavras a serem utilizadas no dicionário (uma palavra por linha)
+wordsFile = codecs.open('words2.txt', 'r', encoding='utf8') #arquivo com lista de palavras a serem utilizadas no dicionário (uma palavra por linha)
 tempDic = codecs.open('temp_dict.dic', 'w+', encoding='utf8') #arquivo com dicionário sem remoção de repetições
 resultDic = codecs.open('dictionary.dic', 'w', encoding='utf8') #arquivo onde será escrito o dicionário
 
@@ -35,9 +35,8 @@ tempDic.seek(dicFirstPos)
 #remove linhas repetidas no dicionário
 seen = set()
 for line in tempDic:
-    line_lower = line.lower()
-    if line_lower not in seen:
-        seen.add(line_lower)
+    if line not in seen:
+        seen.add(line)
 resultDic.writelines(sorted(seen))
 
 rulesFile.close()

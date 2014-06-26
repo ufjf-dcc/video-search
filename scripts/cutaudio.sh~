@@ -4,6 +4,7 @@
 ffmpeg -i $1.mp4 -vn -ac 1 -ab 160k -ar 16000 $1.wav
 
 #pega tamanho total do audio em segundos
+#FILE_LENGTH=$(sox $1.wav -n stat 2>&1 | sed -n 's#^Length (seconds):[^0-9]*\([0-9.]*\)$#\1#p')
 FILE_LENGTH=$(soxi -D $1.wav)
 var=$(echo $FILE_LENGTH|awk '{print int($1+0.5)}')
 
