@@ -1,0 +1,262 @@
+a    a  
+à    a  
+abastecer    a b a s t e s e X  
+abdias    a b dZ i a s  
+ajudam    a Z u d a~ w~   
+alcance    a w k a~  s i  
+alegre    a l e g r i  
+alguns    a w g u~  s  
+aloise    a l o j z i  
+alta    a w t a  
+ambiente    a~  b i e~  tS i  
+ano    a~ n u  
+ao    a w  
+apoio    a p o j u  
+área    a r e a  
+as    a j s  
+às    a j s  
+até    a t E  
+através    a t r a v E j s  
+avenida    a v e n i d a  
+beirario    b e j  r a r i u  
+borda    b o R d a  
+brasil    b r a z i w  
+brasileira    b r a z i l e j  r a  
+cadeia    k a d e j  a  
+campus    k a~  p u j s  
+capital    k a p i t a w  
+carolina    k a r o l i~ n a  
+celulares    s e l u l a r i s  
+centro    s e~  t r u  
+cerca    s e X k a  
+certa    s e X t a  
+chips    S  i p s  
+científicos    s i e~  tS i f i k u s  
+cinco    s i~  k u  
+com    k o~   
+como    k o~ m u  
+competição    k o~  p e tS i s a~ w~   
+competitividade    k o~  p e tS i tS i v i d a dZ i  
+competitivo    k o~  p e tS i tS i v u  
+completamente    k o~  p l e t a m e~  tS i  
+componentes    k o~  p o n e~  tS i s  
+compra    k o~  p r a  
+computadores    k o~  p u t a d o r i s  
+conhecido    k o J  e s i d u  
+consistente    k o~  s i s t e~  tS i  
+construída    k o~  s t r u i d a  
+construir    k o~  s t r u j X  
+conta    k o~  t a  
+copa    k o p a  
+cultura    k u w t u r a  
+da    d a  
+das    d a j s  
+de    dZ i  
+defensor    d e f e~  s o X  
+dentro    d e~  t r u  
+deram    d e r a~ w~   
+desde    d e z dZ i  
+desenvolvimento    d e z e~  v o w v i~ m e~  t u  
+dessa    d e s  a  
+dias    dZ i a s  
+dilma    dZ i w m a  
+diretrizes    dZ i r e t r i z i s  
+do    d u  
+dos    d u j s  
+e    i  
+é    E  
+elas    E l a s  
+eletrônicos    e l e t r o~ n i k u s  
+elimina    e l i~ m i~ n a  
+em    e~ j~   
+empresa    e~  p r e z a  
+empresas    e~  p r e z a s  
+encapsulamento    e~  k a p s u l a m e~  t u  
+então    e~  t a~ w~   
+entre    e~  t r i  
+equipamentos    e k  j p a m e~  t u s  
+espaço    e s p a s u  
+específico    e s p e s i f i k u  
+essa    E s  a  
+essas    E s  a s  
+esse    e s  i  
+esses    e s  i s  
+esta    E s t a  
+estádio    e s t a dZ i u  
+estão    e s t a~ w~   
+esteve    e s t e v i  
+exageradas    e z a Z e r a d a s  
+expectativa    e s p e k t a tS i v a  
+explica    e s p l i k a  
+exsenador    e s s e n a d o X  
+fábrica    f a b r i k a  
+fabricação    f a b r i k a s a~ w~   
+fabricar    f a b r i k a X  
+facilitar    f a s i l i t a X  
+falou    f a l o w   
+fica    f i k a  
+finalizadas    f i~ n a l i z a d a s  
+financeiramente    f i~ n a~  s e j  r a m e~  tS i  
+finep    f i~ n e p  
+fiscal    f i s k a w  
+física    f i z i k a  
+foram    f o r a~ w~   
+fruto    f r u t u  
+fundamentais    f u~  d a m e~  t a j s  
+gaúcha    g a u S  a  
+gente    Z e~  tS i  
+geradores    Z e r a d o r i s  
+governo    g o v e R n u  
+grande    g r a~  dZ i  
+haja     a Z a  
+homenagem     o m e n a Z e~ j~   
+ht     tS  
+igualdade    i g w a w d a dZ i  
+importantes    i~  p o X t a~  tS i s  
+impostos    i~  p o s t u s  
+inauguração    i~ n a w g u r a s a~ w~   
+incentivo    i~  s e~  tS i v u  
+incentivos    i~  s e~  tS i v u s  
+indústria    i~  d u s t r i a  
+indústrias    i~  d u s t r i a s  
+inovação    i~ n o v a s a~ w~   
+instalações    i~  s t a l a s o~ j~ s  
+institutos    i~  s tS i t u t u s  
+internacionais    i~  t e R n a s i o n a j s  
+jogos    Z o g u s  
+júnior    Z u n i o X  
+kátia    k a tS i a  
+lá    l a  
+legado    l e g a d u  
+leopoldo    l e o p O w d u  
+liderado    l i d e r a d u  
+ligar    l i g a X  
+limpa    l i~  p a  
+luciano    l u s i a~ n u  
+maior    m a j O X  
+mais    m a j s  
+mas    m a j s  
+mercado    m e X k a d u  
+metropolitana    m e t r o p o l i t a~ n a  
+metros    m e t r u s  
+micron    m i k r o~   
+mil    m i w  
+milhões    m i L  o~ j~ s  
+mobilidade    m o b i l i d a dZ i  
+montada    m o~  t a d a  
+morto    m o X t u  
+muitas    m u j~ t a s  
+muito    m u j~ t u  
+mundo    m u~  d u  
+município    m u~ n i s i p i u  
+na    n a  
+não    n a~ w~   
+nascimento    n a s  i~ m e~  t u  
+necessário    n e s e s  a r i u  
+negra    n e g r a  
+neste    n e s tS i  
+no    n u  
+nome    n o~ m i  
+nos    n u j s  
+nós    n O j s  
+nova    n o v a  
+o    u  
+obra    o b r a  
+obras    o b r a s  
+origem    o r i Z e~ j~   
+os    u j s  
+ou    o w   
+outros    o w  t r u s  
+padis    p a dZ i j s  
+para    p a r a  
+parceria    p a X s e r i a  
+parte    p a X tS i  
+participou    p a X tS i s i p o w   
+pela    p e l a  
+pelos    p e l u s  
+permite    p e R m i tS i  
+permitir    p e R m i tS i X  
+pinheiro    p i~ J  e j  r u  
+políticas    p o l i tS i k a s  
+ponta    p o~  t a  
+ponto    p o~  t u  
+população    p o p u l a s a~ w~   
+por    p o X  
+porque    p o X k  i  
+porto    p o X t u  
+possível    p o s  i v e w  
+povo    p o v u  
+presidenta    p r e z i d e~  t a  
+principalmente    p r i~  s i p a w m e~  tS i  
+privada    p r i v a d a  
+privadas    p r i v a d a s  
+processo    p r o s e s  u  
+produtos    p r o d u t u s  
+produzidos    p r o d u z i d u s  
+programa    p r o g r a~ m a  
+projeto    p r o Z e t u  
+projetos    p r o Z e t u s  
+promoção    p r o m o s a~ w~   
+proteção    p r o t e s a~ w~   
+quadrados    k w a d r a d u s  
+quando    k w a~  d u  
+que    k  i  
+racial    R a s i a w  
+realista    R e a l i s t a  
+região    R e Z i a~ w~   
+relação    R e l a s a~ w~   
+repórter    R e p O X t e X  
+rio    R i u  
+rocha    R o S  a  
+ronaldo    R o n a w d u  
+rousseff    R o w  s  e f f  
+sábado    s a b a d u  
+sabemos    s a b e~ m u s  
+sala    s a l a  
+são    s a~ w~   
+se    s i  
+sediar    s e dZ i a X  
+sejam    s e Z a~ w~   
+semicondutores    s e m i k o~  d u t o r i s  
+sendo    s e~  d u  
+será    s e r a  
+servem    s e R v e~ j~   
+sete    s e tS i  
+setor    s e t o X  
+smartphones    s m a X tS f  o~ n i s  
+sobre    s o b r i  
+sobretudo    s o b r e t u d u  
+sul    s u w  
+sulcoreana    s u w k o r e a~ n a  
+suportado    s u p o X t a d u  
+tablets    t a b l e tS s  
+também    t a~  b e~ j~   
+tecnologia    t e k n o l o Z i a  
+tecnológico    t e k n o l O Z i k u  
+tecnológicos    t e k n o l O Z i k u s  
+têm    t e~ j~   
+tenha    t e~ J  a  
+ter    t e X  
+todo    t o d u  
+todos    t o d u s  
+torno    t o R n u  
+trabalho    t r a b a L  u  
+tráfego    t r a f e g u  
+trânsito    t r a~  z i t u  
+trata    t r a t a  
+um    u~   
+uma    u~ m a  
+unisinos    u~ n i z i~ n u s  
+universidade    u~ n i v e X s i d a dZ i  
+universidades    u~ n i v e X s i d a dZ i s  
+urbana    u R b a~ n a  
+usados    u z a d u s  
+utilizados    u tS i l i z a d u s  
+vai    v a j  
+vão    v a~ w~   
+veículos    v e i k u l u s  
+vezes    v e z i s  
+viaduto    v i a d u t u  
+vicepresidente    v i s e p r e z i d e~  tS i  
+visitou    v i z i t o w   
+zona    z o~ n a  
